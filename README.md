@@ -3,6 +3,6 @@
 chicken
 =======
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/F-X4SLhorvw" frameborder="0" allowfullscreen>
-</iframe>
+[![Look at all those CHICKENS!](http://i.imgur.com/R6QsDRw.gif)](https://www.youtube.com/embed/F-X4SLhorvw)
+
 This is essentially a placeholder for \#RChickenLadies. 🐓🍻
