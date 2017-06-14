@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#' Feeling Chicken? This will uplift you!\n#'\n#' @examples\n#' feeling_chicken()\n#'\n#' @export\nfeeling_chicken <- function() {\n  x <- sample(c(\"chicken\", \"rooster\"), 1)\n  cat(praise::praise(paste0(emo::ji(x), \": ${EXCLAMATION}! You are ${adjective}!\")))\n}\n",
+    "created" : 1497452202612.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1500935952",
+    "id" : "F8CD9544",
+    "lastKnownWriteTime" : 1497452208,
+    "last_content_update" : 1497452208161,
+    "path" : "~/Documents/wonderland/chicken/R/feeling_chicken.R",
+    "project_path" : "R/feeling_chicken.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

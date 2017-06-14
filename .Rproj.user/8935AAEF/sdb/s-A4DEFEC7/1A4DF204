@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\noutput: github_document\n---\n\n<!-- README.md is generated from README.Rmd. Please edit that file -->\n\n```{r, include = FALSE}\nknitr::opts_chunk$set(\n  collapse = TRUE,\n  comment = \"#>\",\n  fig.path = \"README-\"\n)\n```\n\n# chicken\n\n<iframe width=\"854\" height=\"480\" src=\"https://www.youtube.com/embed/F-X4SLhorvw\" frameborder=\"0\" allowfullscreen></iframe>\n\nThis is essentially a placeholder for #RChickenLadies. `r emo::ji(\"rooster\")``r emo::ji(\"beers\")`\n",
+    "created" : 1497451914074.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "658208161",
+    "id" : "1A4DF204",
+    "lastKnownWriteTime" : 1497452094,
+    "last_content_update" : 1497452094685,
+    "path" : "~/Documents/wonderland/chicken/README.Rmd",
+    "project_path" : "README.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

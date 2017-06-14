@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: chicken\nType: Package\nTitle: Look at all those chickens\nVersion: 0.1.0\nAuthors@R: c(\n       person(\"Lucy\", \"D'Agostino McGowan\", email = \"ld.mcgowan@vanderbilt.edu\", role = c(\"aut\", \"cre\"))\n       )\nDescription: A package for chickens.\nLicense: MIT + file LICENSE\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.1\nImports: praise,\n    emo\n",
+    "created" : 1497450013567.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "292427982",
+    "id" : "40971352",
+    "lastKnownWriteTime" : 1497452150,
+    "last_content_update" : 1497452150,
+    "path" : "~/Documents/wonderland/chicken/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

@@ -1,0 +1,14 @@
+Package: chicken
+Type: Package
+Title: Look at all those chickens
+Version: 0.1.0
+Authors@R: c(
+       person("Lucy", "D'Agostino McGowan", email = "ld.mcgowan@vanderbilt.edu", role = c("aut", "cre"))
+       )
+Description: A package for chickens.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: praise,
+    emo
